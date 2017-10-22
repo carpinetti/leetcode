@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27004.2002
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "leetcode", "leetcode\leetcode.csproj", "{9EF777F9-FD28-4E9E-9697-F46FEEE8748B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "leetcode", "leetcode\leetcode.csproj", "{9D32179C-3FB3-463C-AAAD-BC08FF53A9E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "leetcodeTest", "leetcodeTest\leetcodeTest.csproj", "{C0CD748E-875D-48F4-81B6-6A2CB6A2C847}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +13,19 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{9EF777F9-FD28-4E9E-9697-F46FEEE8748B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{9EF777F9-FD28-4E9E-9697-F46FEEE8748B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{9EF777F9-FD28-4E9E-9697-F46FEEE8748B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{9EF777F9-FD28-4E9E-9697-F46FEEE8748B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D32179C-3FB3-463C-AAAD-BC08FF53A9E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D32179C-3FB3-463C-AAAD-BC08FF53A9E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D32179C-3FB3-463C-AAAD-BC08FF53A9E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D32179C-3FB3-463C-AAAD-BC08FF53A9E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0CD748E-875D-48F4-81B6-6A2CB6A2C847}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0CD748E-875D-48F4-81B6-6A2CB6A2C847}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0CD748E-875D-48F4-81B6-6A2CB6A2C847}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0CD748E-875D-48F4-81B6-6A2CB6A2C847}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {E921AA27-C6C1-4D81-A780-616F1EB1ECEE}
+		SolutionGuid = {363AD7F8-4A5A-43E7-BCFD-4AC1ED95E7F2}
 	EndGlobalSection
 EndGlobal
